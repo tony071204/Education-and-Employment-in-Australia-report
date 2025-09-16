@@ -1,9 +1,6 @@
 # Education-and-Employment-in-Australia-report
 This dashboard analyzes Australia's education and job market trends, linking student enrollment, top universities, and industry growth to future career opportunities. It highlights top-earning sectors, job availability by state, and the alignment between education fields and in-demand industries.
 
-![Education and Employment Dashboard](Edu&Empdashboard.png)
-
-
 ## Key Features
 - **Student Enrollment Analysis**: Tracks yearly student enrollment, YoY changes, and forecasts for 2024 and 2034.
 - **Industry Insights**: Visualizes top-earning and fastest-growing industries in Australia, helping to guide career planning.
