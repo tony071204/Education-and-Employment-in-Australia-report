@@ -21,3 +21,6 @@ This dashboard analyzes Australia's education and job market trends, linking stu
 
 ## Target Audience
 This dashboard is a valuable tool for educators, students, and policymakers to understand the changing landscape of education and employment in Australia. By aligning educational fields with high-growth sectors, the insights provided can help guide decision-making and future planning.
+
+## View the dashboard
+https://public.tableau.com/app/profile/trung.dam1445/viz/assignment1_17566440486340/EduEmploymentdashboard2
